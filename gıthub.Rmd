@@ -8,4 +8,9 @@ plot(iris)
 ```
 
 
-thıs is my fırst gıt
+thıs is my first git
+
+
+
+
+ıuıo
